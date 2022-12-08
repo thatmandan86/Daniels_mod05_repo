@@ -1,3 +1,3 @@
 # Daniels_mod05_repo
 Repository for CS 305 Module 05 assignment.
-Licensed under GNU General Public License v3.0.
+Licensed under GNU General Public License v3.0. The GNU General Public License is a copyleft license which requires that any software based on any GPL component must be released as open source.
